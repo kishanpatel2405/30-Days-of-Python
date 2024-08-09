@@ -29,7 +29,6 @@ flattened_list = [ number for row in list_of_lists for number in row]
 print(flattened_list)
 
 # 13	Lambda Function
-
 # 13	Creating a Lambda Function
 
 # using simple function
