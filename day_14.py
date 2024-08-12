@@ -704,3 +704,6 @@ top_ten_countries = get_top_ten_populated_countries(countries_data)
 print("Top ten most populated countries:")
 for country in top_ten_countries:
     print(f"{country['name']} - Population: {country['population']}")
+
+
+
