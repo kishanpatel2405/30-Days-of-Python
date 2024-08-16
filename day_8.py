@@ -31,6 +31,8 @@ print(person['skills'][1])
 print(person['address']['street'])
 # print(person['city'])
 
+
+
 # 8	Adding Items to a Dictionary
 
 dct = {1 : 'kishan',
