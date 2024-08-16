@@ -56,6 +56,7 @@ print(dct)
 
 print('key2' in dct)
 
+
 # 8	Removing Key and Value Pairs from a Dictionary
 
 dct.pop('key1')
