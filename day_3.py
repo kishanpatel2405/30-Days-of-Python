@@ -282,3 +282,5 @@ for i in range(1, n + 1):
     fifth = i * i * i
     s = str(first) + ' ' + str(second) + ' ' + str(third) + ' ' + str(fourth) + ' ' + str(fifth)
     print(s)
+
+
