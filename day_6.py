@@ -118,3 +118,26 @@ print(a)
 
 b = 'Iceland' in country
 print(b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
