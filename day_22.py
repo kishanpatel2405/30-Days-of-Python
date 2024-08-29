@@ -152,3 +152,15 @@ with open('presidents.json', 'w') as file:
 
 print("Data has been successfully scraped and saved to 'presidents.json'.")
 
+
+
+
+
+
+
+
+
+
+
+
+
