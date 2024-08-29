@@ -482,3 +482,30 @@ ax = sns.distplot(x);
 ax.set(xlabel="x", ylabel='y')
 # plt.show()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
