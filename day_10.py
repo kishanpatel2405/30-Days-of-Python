@@ -17,6 +17,18 @@ while count < 5:
     print(count)
     count = count + 1
 else:
+
+
+
+
+
+
+
+
+
+
+
+
     print(count)
 
 # 10	Break and Continue - Part 1
@@ -2933,21 +2945,3 @@ top_ten_populated_countries = sorted_population_data[:10]
 print("Ten most populated countries:")
 for country, population in top_ten_populated_countries:
     print(f"{country}: {population}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
