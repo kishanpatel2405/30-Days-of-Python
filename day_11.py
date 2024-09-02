@@ -3221,7 +3221,3 @@ def most_populated_countries(data, top_n=10):
 top_countries = most_populated_countries(data, top_n=10)
 for country, population in top_countries:
     print(f"{country}: {population} people")
-
-
-
-
