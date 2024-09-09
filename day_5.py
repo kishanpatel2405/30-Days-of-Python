@@ -479,3 +479,7 @@ unpacked_scandic = [country for country in countries if country in scandic_count
 
 print('first three is : ', unpacked_first_three)
 print('scandic is : ', unpacked_scandic)
+
+
+
+
