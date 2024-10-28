@@ -141,7 +141,3 @@ x, y = 1, 2
 b = y_intercept(m, x, y)
 
 print(f"Y-intercept: {b}")
-
-
-
-
